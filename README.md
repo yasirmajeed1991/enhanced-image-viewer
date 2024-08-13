@@ -1,9 +1,6 @@
-# enhanced-image-viewer
-Enhanced Image Viewer is a WordPress plugin that makes all images in posts clickable, opening them in a new tab with options to print the image, download it as a PDF, or save it in its original format. It ensures compatibility with various image types, providing a simple and effective way to manage image interactions.
-
 # Enhanced Image Viewer
-Version: 1.0
-Author: Yasir Majeed
+- Version: 1.0
+- Author: Yasir Majeed
 
 # Description
 Enhanced Image Viewer is a WordPress plugin that makes all images in your posts clickable. Upon clicking, images open in a new tab with options to print the image, download it as a PDF, or save it in its original format. The plugin supports various image types and offers a clean, user-friendly interface for managing images.
